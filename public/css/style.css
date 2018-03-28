@@ -1,0 +1,11 @@
+.max-viewport {
+  min-height: 100vh; }
+
+#banner {
+  background: linear-gradient(rgba(139, 69, 19, 0.6), rgba(139, 69, 19, 0.6)), url(../img/banner-person.jpg);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; }
+
+.banner-image {
+  box-shadow: 0px 0px 22px 5px rgba(0, 0, 0, 0.35); }
